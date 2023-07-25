@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Bring The Blue Bird Back.",
+  "description": "Let twitter web icon back to blue bird, not \"X\"",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://twitter.com/*"
+      ]
+    }
+  ]
+}
