@@ -1,10 +1,13 @@
-<img src="images/icon-256.png" align="center" alt="logo"/>
+<p align="center">
+    <a href="https://github.com/DancingSnow0517/blueBirdBack"><img src="images/icon-256.png" alt="logo"></a>
+</p>
+
 
 # Bring The Blue Bird Back
 
-Let Twitter web icon back to blue bird, not "X".
-
 让推特网页版的小蓝鸟图标回来，而不是新的 “X”。
+
+Let Twitter web icon back to blue bird, not "X".
 
 ### 使用方法 | Usage
 
