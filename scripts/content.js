@@ -37,3 +37,11 @@ head_links.forEach(l => {
         l.parentNode.replaceChild(new_link, l)
     }
 })
+
+
+
+setInterval(() => {
+    if (document.title.endsWith('/ X')) {
+        document.title = document.title.slice(0, -2) + ' Twitter'
+    }
+}, 1000)
